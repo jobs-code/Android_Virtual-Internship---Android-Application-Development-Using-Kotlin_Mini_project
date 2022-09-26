@@ -2,13 +2,17 @@
 # SPSGP-63877-Virtual-Internship---Android-Application-Development-Using-Kotlin
 Virtual Internship - Android Application Development Using Kotlin
 Jobin John Abraham
+
 SB20220184052
+
 https://g.dev/its_jobin
 
-##Grocery App Project
-![grocerylogo](https://user-images.githubusercontent.com/39452651/192330628-2eca4c30-215b-42a3-9198-e2c1e32cba7f.png)
+<p align="center"><b>Grocery App Project</p>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/39452651/192330628-2eca4c30-215b-42a3-9198-e2c1e32cba7f.png"/></p>
 
 [Download APK](https://github.com/smartinternz02/SPSGP-63877-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/Grocery_App.apk)
+
 [Demo Video :](https://drive.google.com/file/d/1j1wkpWueCA3IpDEAfByPDRSIl_vhMjFs/view?usp=sharing) 
 
 ScreenShots 
